@@ -7,7 +7,7 @@
 .text-overlay h1
 {
   font-size: 4.2rem;
-  white-space: nowrap;
+  white-space: pre;
   color:white;
   font-family:  Calibri;
 }
