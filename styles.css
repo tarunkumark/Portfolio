@@ -58,22 +58,27 @@ table, th, td {
   position:sticky;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(0%, -250%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
+  
+  
 }
 #container:hover .image {
   opacity: 0.3;
+  
 }
 
 #container:hover .middle {
   opacity: 1;
 }
 .text {
-  color: black;
+  color: gray;
   font-size: 16px;
   padding: 16px 32px;
+  
 }
 .fa:hover{
   color:darkorange !important;
 }
+
